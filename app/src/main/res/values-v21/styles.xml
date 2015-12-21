@@ -1,0 +1,23 @@
+<resources>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="GWS" parent="@android:style/Theme.Material.Light.NoActionBar" />
+
+    <style name="GreenWay" parent="@android:style/Theme.Material.NoActionBar" />
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_material_light_4</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_light</item>
+        <item name="colorAccent">@color/accent_material_light</item>
+        <item name="android:statusBarColor">@color/statusBarColor</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+    </style>
+
+    <style name="Material" parent="@android:style/Theme.Material.Light.NoActionBar" />
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Green Way Solution</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Green Way Solution</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_services">Services</string>
+    <string name="title_activity_photos">Photos</string>
+    <string name="title_activity_call">Call</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_activity_mail">Mail</string>
+    <string name="Logo">Green Way Solution</string>
+    <string name="Proprietor">Senthil Kumaran</string>
+    <string name="phno">9884776921</string>
+    <string name="callbutton">Call</string>
+    <string name="btnSendSMS">btnSendSMS</string>
+    <string name="sendsms">Enter SMS</string>
+    <string name="enter">Enter Phone Number</string>
+    <string name="input">Send Sms</string>
+    <string name="queries">Kindly type in your queries :)</string>
+    <string name="profile_me">My Profile Pic</string>
+    <string name="profile_other">Other profile pic</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/ic_flag_blue</item>
+        <item>@drawable/ic_services_blue</item>
+        <item>@drawable/ic_chat_blue</item>
+        <item>@drawable/ic_call_blue</item>
+        <item>@drawable/ic_mail_blue</item>
+        <item>@drawable/ic_sms</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_trackstatus">Trackstatus</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="about">Green Way Solution (GWS) was established on 2000 as
+        a Computer Hardware Servicing and Maintenance Company at Chennai.
+        We very quickly gained the reputation for being a Computer Company
+        that meets its commitments to its customers
+        and consistently achieves service levels beyond our customers expectation.
+        We are passionate about listening to our customers, developing long term relationships of trust
+        and providing innovative solutions and peace of mind through our strong belief in Pride, Service and Workmanship.
+        A measure of our success is evident in the loyalty and endorsements we receive.
+        We are committed to the growth and development of our team both on a personal and professional level,
+        while providing an enjoyable and rewarding environment in which to excel.
+        We encourage open and honest communication with our customers, our team and our suppliers.
+        We endeavor to be pro-active in developing our relationships with suppliers
+        and encouraging greater efficiencies through innovative systems.
+</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_sms">SMS</string>
+    <string name="header">Kindly type in your queries :)</string>
+
+
+</resources>
